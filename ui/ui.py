@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter.ttk import Button, Entry, Frame, Label, Notebook, Separator
+from tkinter.ttk import Button, Entry, Frame, Label, Notebook
 from .tab import create_tab
 
 
