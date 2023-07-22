@@ -41,5 +41,3 @@ def ui():
     db_button3.grid(column=5, row=3, columnspan=2)
 
     return root
-
-
